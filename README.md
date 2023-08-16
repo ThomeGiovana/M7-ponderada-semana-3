@@ -13,3 +13,7 @@ Este repositório é referente à atividade ponderada da semana 3, módulo 7.
 
 - Banco de dados AWS RDS Postgre
 - Backend construído utilizando Nestjs
+
+## Modelo relacional banco de dados
+
+![Modelo relacional músicas]()
