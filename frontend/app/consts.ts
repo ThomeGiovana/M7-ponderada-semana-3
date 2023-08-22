@@ -1,1 +1,1 @@
-export const DEFAULT_URL = "http://localhost:3000/";
+export const DEFAULT_URL = "http://54.197.30.212:3000/";
