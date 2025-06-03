@@ -29,7 +29,7 @@ This repository demonstrates a backend connected to a database and a very simple
 
 ## Demo Video
 Video showing the execution of EC2 instances and the RDS service, both on AWS:  
-[![Link para o vídeo](https://i9.ytimg.com/vi_webp/NQt5Hy7Lp9A/mq2.webp?sqp=CPiK_sEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gIigmMA8=&rs=AOn4CLC-h8Gtqidu1gX-VP8NXFPV0XYJxA)](https://youtu.be/NQt5Hy7Lp9A)
+[![Video link](https://i9.ytimg.com/vi_webp/NQt5Hy7Lp9A/mq2.webp?sqp=CPiK_sEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gIigmMA8=&rs=AOn4CLC-h8Gtqidu1gX-VP8NXFPV0XYJxA)](https://youtu.be/NQt5Hy7Lp9A)
 
 ## Database Modeling
 There are two tables: `Artist` and `Song`, represented in the [schema.prisma](./backend/prisma/schema.prisma) file as follows:
@@ -172,7 +172,7 @@ Este repositório demonstra um backend conectado a um banco de dados e um fronte
 
 ## Vídeo demonstrativo
 Vídeo demonstrando a execução de instâncias EC2 e o serviço RDS, ambos da AWS:  
-[![Link para o vídeo](https://i9.ytimg.com/vi/NQt5Hy7Lp9A/mqdefault.jpg?sqp=CKz3j6cG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFkgOihyMA8=&rs=AOn4CLDlxICHYy31mzSD138g6hr8Mb6KQw)](https://youtu.be/NQt5Hy7Lp9A)
+[![Link para o vídeo](https://i9.ytimg.com/vi_webp/NQt5Hy7Lp9A/mq2.webp?sqp=CPiK_sEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gIigmMA8=&rs=AOn4CLC-h8Gtqidu1gX-VP8NXFPV0XYJxA)](https://youtu.be/NQt5Hy7Lp9A)
 
 ## Modelagem do banco de dados
 Existem duas tabelas: `Artist` e `Song`, representadas da seguinte forma no arquivo [schema.prisma](./backend/prisma/schema.prisma):
