@@ -1,4 +1,4 @@
-# M7-ponderada-semana-3
+# AWS RDS connection with back and frontend
 
 [EN]
 
@@ -141,7 +141,7 @@ http://3.92.78.230:3001
 
 [PT-BR]
 
-# M7-ponderada-semana-3
+# Conexão AWS RDS com front e backend
 
 [PT-BR]
 
